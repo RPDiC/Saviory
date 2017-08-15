@@ -1,2 +1,2 @@
-# Saviory
+# Savioury
 Kitchen Assistant
